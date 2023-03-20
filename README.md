@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21164480/ajay-ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21164480/ajay-ca" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-ca&" alt="ajay-ca" /></p>
+<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-ca&" alt="ajay-ca" /></p>
 
 <img align="center" width="400" alt="coding..." src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58913db99fe951ec7ca0eb97f5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
 
