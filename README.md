@@ -8,32 +8,39 @@
 - 📫 Ping me on **ajayca@duck.com**
 - ⚡ My motto: **Manners Maketh Man**
 
-<h3 align="left">Connect with me:</h3>
-
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://discord.com/users/dany" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/ajay-ca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/ajay-ca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/ajay-ca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/ajay-ca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+[//]: # (Icons for dark mode)
+[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/white" style="padding-right:10px;" />](https://discord.com/users/dany#gh-dark-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-dark-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/white" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-dark-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/white" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-dark-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/twitter/white" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-dark-mode-only)&nbsp;&nbsp;
+
+[//]: # (Icons for light mode)
+[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/black" style="padding-right:10px;" />](https://discord.com/users/dany#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/github/black" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/black" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/black" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/twitter/black" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a></p>
+[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonaws/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/gnubash/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/docker/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/elastic/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/git/" style="padding-right:10px;" />]()&nbsp;
+[<img width="50" height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/linux/" style="padding-right:10px;" />]()&nbsp;
+[<img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/rabbitmq/" style="padding-right:10px;" />]()&nbsp;
+
+---
 
 <a href="http://www.github.com/ajay-ca"><img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=ajay-ca&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ajay-ca's GitHub stats" /></a>
 
