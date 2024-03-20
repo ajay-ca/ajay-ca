@@ -1,15 +1,22 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+# Hi, I'm Ajay <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;
 
-<h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">DevOps Engineer from Kerala</h3>
+A DevOps Engineer from India!
+
+
+[//]: #![MasterHead](./assets/coding.gif)
+
+## About Me
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=ajay-ca.ajay-ca)](https://visitor-badge.laobi.icu/badge?page_id=ajay-ca.ajay-ca)&nbsp;&nbsp;
+[![](https://img.shields.io/github/stars/ajay-ca?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)&nbsp;&nbsp;
+[![](https://img.shields.io/github/followers/ajay-ca?color=27da6b&logo=Handshake)](https://github.com/ajay-ca?tab=followers)&nbsp;&nbsp;
 
 - 🧠  I’m currently learning **Kubernetes**
 - 💬 Ask me about **Cloud computing, AWS and Docker**
 - 📫 Ping me on **ajayca@duck.com**
 - ⚡ My motto: **Manners Maketh Man**
 
-<h3 align="left">Connect with me on:</h3>
-<p align="left">
+## Connect with me on:
 
 [//]: # (Icons for light & dark modes)
 [<img width="45" height="45" src="https://cdn.simpleicons.org/discord/white" style="padding-right:10px;" />](https://discord.com/users/dany#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/black" style="padding-right:10px;" />](https://discord.com/users/dany#gh-light-mode-only)&nbsp;&nbsp;
@@ -17,10 +24,11 @@
 [<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/white" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/black" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/white" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/black" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/twitter/white" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/twitter/black" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/white" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/black" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-light-mode-only)&nbsp;&nbsp;
 
 </p>
 
-<h3 align="left">Platforms and Tools</h3>
+## Technologies and Tools
 
 [<img width="45" height="45" src="https://cdn.simpleicons.org/amazonaws/white" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />]()&nbsp;
@@ -37,11 +45,11 @@
 [<img width="45" height="45" src="https://cdn.simpleicons.org/grafana/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/ansible/" style="padding-right:10px;" />]()&nbsp;
 
-<h3 align="left">Languages</h3>
+## Languages
 
 [<img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/gnubash/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/go/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/flutter/" style="padding-right:10px;" />]()&nbsp;
 
----
+![Footer](./assets/fadingline.gif)
