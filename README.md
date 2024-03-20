@@ -11,37 +11,37 @@
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 
-[//]: # (Icons for dark mode)
-[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/white" style="padding-right:10px;" />](https://discord.com/users/dany#gh-dark-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-dark-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/white" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-dark-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/white" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-dark-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/twitter/white" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-dark-mode-only)&nbsp;&nbsp;
-
-[//]: # (Icons for light mode)
-[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/black" style="padding-right:10px;" />](https://discord.com/users/dany#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/github/black" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/black" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/black" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/twitter/black" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[//]: # (Icons for light & dark modes)
+[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/white" style="padding-right:10px;" />](https://discord.com/users/dany#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/black" style="padding-right:10px;" />](https://discord.com/users/dany#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/github/black" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/white" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/black" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/white" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/black" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/twitter/white" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/twitter/black" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Platforms and Tools</h3>
 
-[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonaws/orange" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/gnubash/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/docker/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/elastic/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonaws/white" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/git/" style="padding-right:10px;" />]()&nbsp;
 [<img width="50" height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/linux/orange" style="padding-right:10px;" />]()&nbsp;
-[<img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/docker/" style="padding-right:10px;" />]()&nbsp;
+[<img width="50" height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/nginx/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/git/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/rabbitmq/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/mongodb/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/elastic/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/prometheus/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/grafana/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/ansible/" style="padding-right:10px;" />]()&nbsp;
+
+<h3 align="left">Languages</h3>
+
+[<img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/gnubash/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/go/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/flutter/" style="padding-right:10px;" />]()&nbsp;
 
 ---
-
-<a href="http://www.github.com/ajay-ca"><img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=ajay-ca&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ajay-ca's GitHub stats" /></a>
-
-<p><img align="right" width="350" height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-ca&" alt="ajay-ca" /></p>
