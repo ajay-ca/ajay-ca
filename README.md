@@ -43,6 +43,9 @@ A DevOps Engineer from India!
 [<img width="45" height="45" src="https://cdn.simpleicons.org/prometheus/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/grafana/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/ansible/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/kubernetes/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/redis/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/postman/" style="padding-right:10px;" />]()&nbsp;
 
 ## Languages
 
