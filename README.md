@@ -40,7 +40,6 @@ A DevOps Engineer from India!
 [<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/rabbitmq/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/mongodb/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/elastic/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/prometheus/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/grafana/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/ansible/" style="padding-right:10px;" />]()&nbsp;
