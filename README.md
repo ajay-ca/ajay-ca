@@ -54,4 +54,14 @@ A DevOps Engineer from India!
 [<img width="45" height="45" src="https://cdn.simpleicons.org/go/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/flutter/" style="padding-right:10px;" />]()&nbsp;
 
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ajay-ca&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ajay-ca&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+
+  <br>
+</p>
+</details>
+
 ![Footer](./assets/fadingline.gif)
