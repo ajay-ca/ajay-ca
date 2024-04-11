@@ -30,14 +30,14 @@ A DevOps Engineer from India!
 
 ## Technologies and Tools
 
-[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonaws/white" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonaws/white" style="padding-right:10px;" />](https://aws.amazon.com/#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonaws/" style="padding-right:10px;" />](https://aws.amazon.com/#gh-light-mode-only)&nbsp;
 [<img width="45" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="50" height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/docker/" style="padding-right:10px;" />]()&nbsp;
 [<img width="50" height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/nginx/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/git/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/github/" style="padding-right:10px;" />](https://github.com/ajay-ca/ajay-ca/#gh-light-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />](https://github.com/ajay-ca/ajay-ca/#gh-dark-mode-only)&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/rabbitmq/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/mongodb/" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/prometheus/" style="padding-right:10px;" />]()&nbsp;
