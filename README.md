@@ -23,36 +23,36 @@ A DevOps Engineer from India!
 [<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/github/black" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/white" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/black" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/white" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/black" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/x/white" style="padding-right:10px;" />](https://www.x.com/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/x/black" style="padding-right:10px;" />](https://www.x.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/x/white" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/x/black" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/white" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/black" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-light-mode-only)&nbsp;&nbsp;
 
 </p>
 
 ## Technologies and Tools
 
-[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonwebservices/white" style="padding-right:10px;" />](https://aws.amazon.com/#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonaws/" style="padding-right:10px;" />](https://aws.amazon.com/#gh-light-mode-only)&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonwebservices/white" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="50" height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/docker/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/docker" style="padding-right:10px;" />]()&nbsp;
 [<img width="50" height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/nginx/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/git/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/github/" style="padding-right:10px;" />](https://github.com/ajay-ca/ajay-ca/#gh-light-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />](https://github.com/ajay-ca/ajay-ca/#gh-dark-mode-only)&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/rabbitmq/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/mongodb/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/prometheus/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/grafana/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/ansible/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/kubernetes/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/redis/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/postman/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/nginx" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/git" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/rabbitmq" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/mongodb" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/prometheus" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/grafana" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/ansible" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/kubernetes" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/redis" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/postman" style="padding-right:10px;" />]()&nbsp;
 
 ## Languages
 
 [<img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/gnubash/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/go/" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/flutter/" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/gnubash" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/go" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/flutter" style="padding-right:10px;" />]()&nbsp;
 
 <details>
 <summary>Click for GitHub Stats</summary>
