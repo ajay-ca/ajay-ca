@@ -2,8 +2,7 @@
 # Hi, I'm Ajay 
 A DevOps Engineer from India!
 
-
-[//]: #![MasterHead](./assets/coding.gif)
+![Coder](./assets/coding.gif)
 
 ## About Me
 
@@ -19,18 +18,21 @@ A DevOps Engineer from India!
 ## Connect with me on:
 
 [//]: # (Icons for light & dark modes)
-[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/white" style="padding-right:10px;" />](https://discord.com/users/DanY#8295#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/black" style="padding-right:10px;" />](https://discord.com/users/DanY#8295#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/github/black" style="padding-right:10px;" />](https://www.github.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/white" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/linkedin/black" style="padding-right:10px;" />](https://www.linkedin.com/in/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/white" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/stackoverflow/black" style="padding-right:10px;" />](https://www.stackoverflow.com/users/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/x/white" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/x/black" style="padding-right:10px;" />](https://www.twitter.com/ajay-ca#gh-light-mode-only)&nbsp;&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/white" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-dark-mode-only)[<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/black" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-light-mode-only)&nbsp;&nbsp;
-
-</p>
+[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/white" style="padding-right:10px;" />](https://discord.com/users/DanY#8295#gh-dark-mode-only)
+[<img width="45" height="45" src="https://cdn.simpleicons.org/discord/black" style="padding-right:10px;" />](https://discord.com/users/DanY#8295#gh-light-mode-only)&nbsp;&nbsp;
+[<img src="https://img.icons8.com/?size=45&id=8808&format=png" style="filter: invert(100%) sepia(95%) saturate(21%) hue-rotate(213deg) brightness(105%) contrast(100%);" alt="linkedin"/></a>](https://discord.com/users/DanY#8295#gh-dark-mode-only)
+[<img src="https://img.icons8.com/?size=45&id=8808&format=png" alt="linkedin"/></a>](https://discord.com/users/DanY#8295#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/stackexchange/white" style="padding-right:10px;" />](https://stackexchange.com/users/32142326/ajay#gh-dark-mode-only)
+[<img width="45" height="45" src="https://cdn.simpleicons.org/stackexchange/black" style="padding-right:10px;" />](https://stackexchange.com/users/32142326/ajay#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/x/white" style="padding-right:10px;" />](https://www.twitter.com/ajay_c_a#gh-dark-mode-only)
+[<img width="45" height="45" src="https://cdn.simpleicons.org/x/black" style="padding-right:10px;" />](https://www.twitter.com/ajay_c_a#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/white" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-dark-mode-only)
+[<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/black" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-light-mode-only)&nbsp;&nbsp;
 
 ## Technologies and Tools
 
-[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonwebservices/white" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://img.icons8.com/?size=256&id=VLKafOkk3sBX&format=png" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/amazonwebservices/orange" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="50" height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/docker" style="padding-right:10px;" />]()&nbsp;
@@ -53,15 +55,5 @@ A DevOps Engineer from India!
 [<img width="45" height="45" src="https://cdn.simpleicons.org/gnubash" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/go" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/flutter" style="padding-right:10px;" />]()&nbsp;
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ajay-ca&theme=darcula&hide_border=true&background=FFFFFF00">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ajay-ca&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-
-  <br>
-</p>
-</details>
 
 ![Footer](./assets/fadingline.gif)
