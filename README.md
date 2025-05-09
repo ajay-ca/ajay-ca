@@ -20,10 +20,10 @@ A DevOps Engineer from India!
 [//]: # (Icons for light & dark modes)
 [<img width="45" height="45" src="https://cdn.simpleicons.org/discord/white" style="padding-right:10px;" />](https://discord.com/users/DanY#8295#gh-dark-mode-only)
 [<img width="45" height="45" src="https://cdn.simpleicons.org/discord/black" style="padding-right:10px;" />](https://discord.com/users/DanY#8295#gh-light-mode-only)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/?size=45&id=8808&format=png" style="filter: invert(100%) sepia(95%) saturate(21%) hue-rotate(213deg) brightness(105%) contrast(100%);" alt="linkedin"/></a>](https://discord.com/users/DanY#8295#gh-dark-mode-only)
-[<img src="https://img.icons8.com/?size=45&id=8808&format=png" alt="linkedin"/></a>](https://discord.com/users/DanY#8295#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" alt="linkedin"/></a>](https://www.linkedin.com/in/ajay-ca/#gh-dark-mode-only)
+[<img width="45" height="45" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="linkedin"/></a>](https://www.linkedin.com/in/ajay-ca/#gh-light-mode-only)&nbsp;&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/stackexchange/white" style="padding-right:10px;" />](https://stackexchange.com/users/32142326/ajay#gh-dark-mode-only)
-[<img width="45" height="45" src="https://cdn.simpleicons.org/stackexchange/black" style="padding-right:10px;" />](https://stackexchange.com/users/32142326/ajay#gh-light-mode-only)&nbsp;&nbsp;
+[<img width="45" height="45" src="https://img.icons8.com/?size=256&id=38496&format=png" style="padding-right:10px;" />](https://stackexchange.com/users/32142326/ajay#gh-light-mode-only)&nbsp;&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/x/white" style="padding-right:10px;" />](https://www.twitter.com/ajay_c_a#gh-dark-mode-only)
 [<img width="45" height="45" src="https://cdn.simpleicons.org/x/black" style="padding-right:10px;" />](https://www.twitter.com/ajay_c_a#gh-light-mode-only)&nbsp;&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/telegram/white" style="padding-right:10px;" />](https://t.me/ajay_c_a#gh-dark-mode-only)
@@ -39,7 +39,8 @@ A DevOps Engineer from India!
 [<img width="50" height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/nginx" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/git" style="padding-right:10px;" />]()&nbsp;
-[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />]()&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px;" />](https://stackexchange.com/users/32142326/ajay#gh-dark-mode-only)&nbsp;
+[<img width="45" height="45" src="https://cdn.simpleicons.org/github" style="padding-right:10px;" />](https://stackexchange.com/users/32142326/ajay#gh-light-mode-only)&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/rabbitmq" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/mongodb" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/prometheus" style="padding-right:10px;" />]()&nbsp;
