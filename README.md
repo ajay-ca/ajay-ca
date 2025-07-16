@@ -56,7 +56,7 @@
 
 ## 🧑‍💻 Languages
 
-[<img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]()&nbsp;
+[<img width="40" height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/gnubash" style="padding-right:10px;" />]()&nbsp;
 [<img width="45" height="45" src="https://cdn.simpleicons.org/go" style="padding-right:10px;" />]()&nbsp;
 
